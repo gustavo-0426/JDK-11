@@ -10,9 +10,9 @@
 		<relativePath />
 	</parent>
 	<groupId>com.co.softworld</groupId>
-	<artifactId>Java11</artifactId>
+	<artifactId>JDK-11</artifactId>
 	<version>1.0.0</version>
-	<name>name</name>
+	<name>JDK-11</name>
 	<description>project for Java 11</description>
 
 	<properties>
@@ -23,7 +23,6 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.18.20</version>
 		</dependency>
 	</dependencies>
 
