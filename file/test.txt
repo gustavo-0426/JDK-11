@@ -1,1 +1,1 @@
-available from JDK 11 !!!
+available from JDK 11!!!
